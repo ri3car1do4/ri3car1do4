@@ -27,18 +27,23 @@
 ## 🕶️ Sobre mí
 ```bash
 > whoami
-Estudiante de Informática | Hacker Ético 
+Estudiante de Ingeniería Informática | Hacker Ético 
 ```
-Me llamo Ricardo, apasionado por la ciberseguridad ofensiva/defensiva, análisis de malware y seguridad en la nube.
+¡Hola! Soy Ricardo, un estudiante de 4º de Ingeniería Informática en la Universidad Complutense de Madrid, interesado en ciberseguridad y seguridad en entornos cloud. Actualmente desarrollo un TFG de investigación centrado en el análisis de vectores de ataque y detección de riesgos en arquitecturas serverless, con un enfoque totalmente académico, controlado y orientado a la defensa.
 
-💻 Estudiante de Informática  
-🔐 Apasionado de la Ciberseguridad & el Hacking Ético  
-⚔️ Pentesting / Análisis de Malware  
-☁️ Cloud & Big Data  
+Me apasiona el mundo de la ciberseguridad ofensiva y defensiva, el análisis de amenazas, la protección de infraestructuras modernas y todo lo relacionado con cloud, big data y arquitectura segura.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600px">
-</div>
+A lo largo de mi formación he desarrollado una base técnica sólida en:
+
+- 🐧Administración de sistemas Linux
+- 🔐 Seguridad de redes y pentesting
+- 💻 Programación: Python, Java, C/C++, SQL…
+- ☁️ Cloud & Big Data
+- 📊 Análisis de incidencias y detección de riesgos
+
+En mis proyectos he demostrado comunicación efectiva, trabajo en equipo, capacidad para aprender nuevas tecnologías rápidamente y una fuerte organización para cumplir plazos y entregar resultados de calidad.
+
+✨ Actualmente busco oportunidades de prácticas donde seguir creciendo, aportar valor y trabajar junto a profesionales del sector.
 
 ---
 
